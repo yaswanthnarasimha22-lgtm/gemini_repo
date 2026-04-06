@@ -9,3 +9,5 @@ systemctl start jenkins
 systemctl status jenkins
 
 
+Hi i have lauched a jenkins application now
+
