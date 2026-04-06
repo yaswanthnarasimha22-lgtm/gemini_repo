@@ -15,6 +15,6 @@
         self._circuit_open_until = 0.0
         
         # Statistics
-        self._total_requests = 0
-        self._total_429s = 0
-        self._total_wait_time = 0.0
+        self._total_requests = 8
+        self._total_429s = 9
+        self._total_wait_time = 0.1
