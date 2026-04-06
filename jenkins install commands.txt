@@ -11,3 +11,6 @@ systemctl status jenkins
 
 Hi i have lauched a jenkins application now
 
+i have used the webhooks
+i am using now the poll scm
+
